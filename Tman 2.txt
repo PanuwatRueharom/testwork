@@ -1,1 +1,5 @@
-bag god
+class Testimage {
+public void main (String [] ,a){
+System.out.print("Hello world");
+}
+}
